@@ -1,4 +1,9 @@
-# This is my super cool heading
+# Sam's First CS193 Homework
+
+My favorite things about CS193: 
+- No exams
+- Non-traditional format
+- It's a vibe
 
 ## Welcome to GitHub Pages
 
